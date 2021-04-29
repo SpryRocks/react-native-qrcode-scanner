@@ -27,8 +27,7 @@
   },
   "dependencies": {
     "@react-native-async-storage/async-storage": "^1.13.4",
-    "prop-types": "^15.5.10",
-    "react-native-permissions": "^2.0.2"
+    "prop-types": "^15.5.10"
   },
   "devDependencies": {
     "@semantic-release/git": "^9.0.0",
@@ -40,7 +39,8 @@
     "prettier": "^1.12.1"
   },
   "peerDependencies": {
-    "react-native-camera": ">=1.0.2"
+    "react-native-camera": ">=1.0.2",
+    "react-native-permissions": "^2.0.2"
   },
   "homepage": "https://github.com/moaazsidat/react-native-qrcode-scanner#readme",
   "release": {
